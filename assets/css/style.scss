@@ -1,0 +1,20 @@
+---
+---
+/* less is more */
+
+body {
+  margin: 50px auto;
+  max-width: 700px;
+  font-size: 18px;
+  padding: 0 10px;
+}
+
+h1, h2, h3 {
+  line-height: 1.2;
+  color: black;
+}
+
+.error {
+  color: red;
+  font-weight: bold;
+}

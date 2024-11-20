@@ -1,4 +1,4 @@
-# Omne
+# omne
 
 [Old website from Neocities](https://tauon.neocities.org/) - Migration is not complete.
 

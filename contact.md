@@ -1,4 +1,4 @@
-# Contact
+# contact
 
 Please respect my time when reaching out. I prioritize self-improvement over engaging in trivial conversations. If I don't respond to you, there is a reason.
 

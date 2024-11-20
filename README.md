@@ -1,8 +1,6 @@
 # Omne
 
-[Old website](https://tauon.neocities.org/)
-
-Migration from Neocities to Github Pages is not yet complete. I'm using Jekyll here on GitHub Pages instead of writing raw HTML, which while more efficient, breaks the style.
+[Old website from Neocities](https://tauon.neocities.org/) - Migration is not complete.
 
 [blog](/blog) - [contact](/contact) - [friends](/friends)
 

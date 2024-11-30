@@ -20,6 +20,7 @@ Prior to the publication of this document, Discord was my primary method of cont
 - Discord collects extensive data, including users' IP addresses as well as the content of messages, files, and voice calls exchanged on the platform.
 - Discord increasingly resembles conventional social media, particularly with an increasing abundance of features aimed at large communities. This shift sets the stage for [enshittification](https://en.wikipedia.org/wiki/Enshittification), a degradation of user experience to maximize shareholder profit.
 - Discord’s reliance on investment capital for funding, combined with its expansive feature set, suggests it may struggle to meet financial obligations long-term. Given its extensive data collection, Discord is likely to sell user data for purposes like targeted advertising and AI training if other revenue strategies, such as Discord Nitro, fall short.
+- This is not exactly a reason to leave Discord entirely, but instant messaging encourages fast replies rather than thought-out answers. Email, by virtue of its asynchronous nature, allows more time to draft and revise replies, promoting deeper thinking.
 
 Instant messaging may be superior to email if we need to work together on something in real time. If instant messaging is strongly preferable, we can arrange a conversation on [Matrix](https://matrix.org/), a decentralized instant messaging platform based on an open standard. I do not check Matrix outside of scheduled discussions.
 

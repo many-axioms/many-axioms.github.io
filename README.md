@@ -6,7 +6,7 @@
 
 ## About
 
-*Hold many axioms.*
+*The sorrow of the impossible is a human pain that nothing will cure and for which no comfort can be found.*
 
 Hi, I'm Tau! I occasionally share interesting, typically philosophical, stuff on the internet.
 

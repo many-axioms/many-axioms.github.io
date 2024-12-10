@@ -1,6 +1,6 @@
 # omne
 
-[Old website from Neocities](https://tauon.neocities.org/) - Migration is not complete.
+[Old website from Neocities](https://tauon.neocities.org/) - Migration is scheduled to complete by the end of 2024.
 
 [blog](/blog) - [contact](/contact) - [friends](/friends)
 
